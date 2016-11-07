@@ -6,4 +6,4 @@ This repository contains the supplementary material for:
 
 Please find the slides on www.glauner.info/publications
 
-More details on ISGT Europe 2016: http://computing.derby.ac.uk/ucc2016/
+More details on UCC 2016: http://computing.derby.ac.uk/ucc2016/
