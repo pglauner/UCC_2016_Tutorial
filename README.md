@@ -1,4 +1,4 @@
-# UCC_2016_Tutorial
+# Deep Learning on Big Data Sets in the Cloud with Apache Spark and Google TensorFlow
 
 This repository contains the supplementary material for:
 
